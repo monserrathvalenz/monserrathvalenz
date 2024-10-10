@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Monserrath Valenzuela
 - 🌱 I’m currently learning python and C++
 - 📫 You can contact me by email as: monserrathvalenz@outlook.com 
-- 😄 I would love the opportunity to work together and contribute my passion and skills to the team!
+- 👾 I would love the opportunity to work together and contribute my passion and skills to the team!
 
 
 <!---
